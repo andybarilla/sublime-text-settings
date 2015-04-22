@@ -1,12 +1,33 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"caret_style": "solid",
+	"color_scheme": "Packages/User/Flynns-Night-Theme.tmTheme",
 	"draw_indent_guides": true,
-	"font_size": 11,
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		"*.pyc"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".idea"
+	],
+	"font_name": "Ubuntu Mono",
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"preview_on_click": "false"
+	"preview_on_click": "false",
+	"rulers":
+	[
+		79,
+		120
+	],
+	"show_full_path": true,
+	"theme": "Soda Light.sublime-theme",
+	"wide_caret": true
 }
